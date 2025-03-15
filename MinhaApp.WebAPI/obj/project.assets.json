@@ -89,9 +89,35 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "MinhaApp.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MinhaApp.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhaApp.Dominio.dll": {}
+        }
+      },
+      "MinhaApp.Repositorio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MinhaApp.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MinhaApp.Repositorio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MinhaApp.Repositorio.dll": {}
+        }
+      },
       "MinhaApp.Servico/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MinhaApp.Repositorio": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MinhaApp.Servico.dll": {}
         },
@@ -449,6 +475,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "MinhaApp.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../MinhaApp.Dominio/MinhaApp.Dominio.csproj",
+      "msbuildProject": "../MinhaApp.Dominio/MinhaApp.Dominio.csproj"
+    },
+    "MinhaApp.Repositorio/1.0.0": {
+      "type": "project",
+      "path": "../MinhaApp.Repositorio/MinhaApp.Repositorio.csproj",
+      "msbuildProject": "../MinhaApp.Repositorio/MinhaApp.Repositorio.csproj"
     },
     "MinhaApp.Servico/1.0.0": {
       "type": "project",

@@ -1,0 +1,12 @@
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\bin\Debug\net8.0\MinhaApp.Dominio.deps.json
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\bin\Debug\net8.0\MinhaApp.Dominio.dll
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\bin\Debug\net8.0\MinhaApp.Dominio.pdb
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\MinhaApp.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\MinhaApp.Dominio.AssemblyInfoInputs.cache
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\MinhaApp.Dominio.AssemblyInfo.cs
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\MinhaApp.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\MinhaApp.Dominio.sourcelink.json
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\MinhaApp.Dominio.dll
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\refint\MinhaApp.Dominio.dll
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\MinhaApp.Dominio.pdb
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Dominio\obj\Debug\net8.0\ref\MinhaApp.Dominio.dll

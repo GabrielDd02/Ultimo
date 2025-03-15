@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinhaApp.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d401be5cde1b030cfe8db77ba6d2bba536b5a0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinhaApp.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinhaApp.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

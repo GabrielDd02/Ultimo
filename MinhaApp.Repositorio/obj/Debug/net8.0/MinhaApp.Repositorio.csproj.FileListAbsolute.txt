@@ -1,0 +1,16 @@
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\bin\Debug\net8.0\MinhaApp.Repositorio.deps.json
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\bin\Debug\net8.0\MinhaApp.Repositorio.dll
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\bin\Debug\net8.0\MinhaApp.Repositorio.pdb
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\bin\Debug\net8.0\MinhaApp.Dominio.dll
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\bin\Debug\net8.0\MinhaApp.Dominio.pdb
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.Repositorio.csproj.AssemblyReference.cache
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.Repositorio.AssemblyInfoInputs.cache
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.Repositorio.AssemblyInfo.cs
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.Repositorio.sourcelink.json
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.24142EA3.Up2Date
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.Repositorio.dll
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\refint\MinhaApp.Repositorio.dll
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\MinhaApp.Repositorio.pdb
+C:\Users\UNIVASSOURAS\Desktop\Ultimo\MinhaApp\MinhaApp.Repositorio\obj\Debug\net8.0\ref\MinhaApp.Repositorio.dll
